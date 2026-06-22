@@ -1,12 +1,12 @@
 # n8n-youtube-automation
 # 🤖 Automated YouTube Shorts & Reels Generator (AI Pipeline)
 
-A fully automated backend automation pipeline that fetches content from Google Sheets, dynamically generates high-quality vertical videos (Shorts/Reels), and publishes them directly to YouTube using **n8n**, **Creatomate**, and **Google Cloud APIs**.
+A fully automated backend automation pipeline that fetches content from Google Sheets, dynamically generates high-quality vertical videos (Shorts/Reels), and publishes them directly to YouTube
 
 ---
 
 ## 📺 Project Live Demo & Presentation
-[[![Watch the Video](https://img.shields.io/badge/LinkedIn-Watch%20Project%20Demo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/umair77cc_automation-n8n-creatomate-activity-7204394857293844480-abcd)](https://www.linkedin.com/posts/umair-it_workflowautomation-n8n-systemengineering-ugcPost-7474522593048584192-QPAI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_ijhkBj1J3A1v3L_GTuQhqf1V-QUaH4XY)
+[![Watch the Video](https://img.shields.io/badge/LinkedIn-Watch%20Project%20Demo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/umair-it_workflowautomation-n8n-systemengineering-ugcPost-7474522593048584192-QPAI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_ijhkBj1J3A1v3L_GTuQhqf1V-QUaH4XY)
 
 > 💡 *Click the badge above to watch the full execution video, system workflow, and final output on LinkedIn.*
 
